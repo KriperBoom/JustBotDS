@@ -2,7 +2,7 @@ import os
 import discord
 from discord import app_commands
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("MTUzNTM3Nzg1NjIwMzMyNTQ5MA.GG1pcg.pelOJf-rkUbjKfPBSp_Cv47EoQYe8ySGFRud_I")
 
 class MyClient(discord.Client):
     def __init__(self):
